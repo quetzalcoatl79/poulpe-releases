@@ -5,6 +5,10 @@ des dossiers sur votre disque, avec leurs notes, tâches, agenda et comptes
 rendus de réunion, et une messagerie chiffrée de bout en bout pour échanger
 avec d'autres utilisateurs.
 
+Pour vos projets de recherche, l'onglet R&D rassemble le temps passé, le code,
+les pipelines de CI et les tests en un dossier de preuves, prêt pour un dossier
+de crédit d'impôt recherche ou innovation (CIR, CII).
+
 Ce dépôt ne contient que les installeurs.
 **[Télécharger la dernière version](https://github.com/quetzalcoatl79/poulpe-releases/releases/latest)**
 
