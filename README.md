@@ -26,6 +26,13 @@ complémentaires*, puis sur *Exécuter quand même*.
 sudo apt install ./poulpe_X.Y.Z-1_amd64.deb
 ```
 
+## Mettre à jour
+
+À partir de la version 1.7, Poulpe signale lui-même chaque nouvelle version :
+un bandeau s'affiche, et « Mettre à jour » télécharge l'installeur depuis cette
+page, vérifie son empreinte puis le lance. Depuis une version plus ancienne,
+installez la dernière version une fois à la main, comme ci-dessus.
+
 ## Vérifier le fichier téléchargé
 
 Chaque version publie un fichier `SHA256SUMS`. L'empreinte de votre fichier
